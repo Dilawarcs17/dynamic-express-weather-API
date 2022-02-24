@@ -1,0 +1,1 @@
+api.openweathermap.org/data/2.5/weather?q=Lahore&appid=7f71ee87df60a0c9527b2ea8be166760
